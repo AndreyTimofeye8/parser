@@ -23,8 +23,7 @@
 node puppeteer.js <ссылка на страницу с товаром> <регион>
 ```
 
-Например
-
+Например:
 ```bash
 node puppeteer.js https://www.vprok.ru/product/domik-v-derevne-dom-v-der-moloko-ster-3-2-950g--309202 "Санкт-Петербург и область"
 ```
@@ -37,8 +36,7 @@ node puppeteer.js https://www.vprok.ru/product/domik-v-derevne-dom-v-der-moloko-
 node axios.js <ссылка на страницу с группой товаров>
 ```
 
-Например
-
+Например:
 ```bash
 node axios.js https://www.vprok.ru/catalog/7382/pomidory-i-ovoschnye-nabory
 ```

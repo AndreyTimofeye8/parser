@@ -17,7 +17,7 @@
 
 3. Запуск скриптов
 
-3.1 puppeteer.js
+3.1. puppeteer.js
 
 Запуск:
 
@@ -33,7 +33,7 @@ node puppeteer.js https://www.vprok.ru/product/domik-v-derevne-dom-v-der-moloko-
 
 В результате получим скриншот со страницей товара и файл product.txt с необходимыми данными
 
-3.2 axios.js
+3.2. axios.js
 
 Запуск:
 

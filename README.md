@@ -17,7 +17,7 @@
 
 3. Запуск скриптов
 
-- puppeteer.js
+- **puppeteer.js**
 
 ```bash
 node puppeteer.js <ссылка на страницу с товаром> <регион>
@@ -30,7 +30,7 @@ node puppeteer.js https://www.vprok.ru/product/domik-v-derevne-dom-v-der-moloko-
 
 В результате получим скриншот со страницей товара и файл product.txt с необходимыми данными
 
-- axios.js
+- **axios.js**
 
 ```bash
 node axios.js <ссылка на страницу с группой товаров>

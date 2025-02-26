@@ -45,4 +45,4 @@ node axios.js https://www.vprok.ru/catalog/7382/pomidory-i-ovoschnye-nabory
 
 #### Автор
 
-[Андрей Тимофеев](https://t.me/andreu_t){:target="_blank"}
+<a href="https://t.me/andreu_t" target="_blank">Андрей Тимофеев</a>

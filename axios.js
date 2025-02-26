@@ -24,7 +24,6 @@ const fetchProducts = async (categoryUrl) => {
     const products = jsonData.props.pageProps.initialStore.catalogPage.products;
     console.log(`Найдено ${products.length} товаров.`);
 
-    // Извлекаем данные о товарах
     const productDetails = products.map((product) => ({
       Название: product.name,
       'Ссылка на изображение': product.images[0]?.url,
